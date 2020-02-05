@@ -1,1 +1,2 @@
 Hello There! this is the first file created using cat under file1
+The author of the script is Ganesh and the time of submission is 07:35 PM IST
