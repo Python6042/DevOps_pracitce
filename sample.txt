@@ -1,0 +1,6 @@
+#This is a sample program to test working of Git,Github and Jenkins
+echo " Everything working fine" 
+echo "You are Great man"
+echo "Practice makes man perfect"
+
+
